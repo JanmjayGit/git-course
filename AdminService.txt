@@ -1,1 +1,2 @@
 admin will manage the user
+has access to database
