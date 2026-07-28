@@ -5,4 +5,4 @@ create an avatar for user
 user will have an attractice dashboard to manage their fav. items
 
 change1 in main
-change in Janmjay database
+change in Janmjay database abhi aayga merge conflict
