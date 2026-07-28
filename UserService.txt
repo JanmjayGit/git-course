@@ -2,6 +2,6 @@ Get the user data
 process the data
 
 create an avatar for user
-
+user will have an attractice dashboard to manage their fav. items
 
 change1 in main
