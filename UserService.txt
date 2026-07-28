@@ -3,7 +3,7 @@ process the data
 
 create an avatar for user
 user will have an attractice dashboard to manage their fav. items
-close the connection
+close the oracle connection
 
 change1 in main
 change in Janmjay database abhi aayga merge conflict
